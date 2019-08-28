@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FortuneTeller</string>
+    <string name="Welcome">Welcome To My Fortune Telling App</string>
+    <string name="ClickToStart">Click The Button Below To Have Some Fun!</string>
+    <string name="InstructionText">Ask Me a Yes or No Question and Then Shake Me to See Your Fortune</string>
+    <string name="ExampleText">Example: Will I Be Rich?</string>
+    <string name="ButtonText">Start Fortune Teller</string>
+    <string name="answerTxt"></string>
+    <string name="todo">TODO</string>
+</resources>
